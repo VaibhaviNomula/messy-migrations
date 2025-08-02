@@ -1,0 +1,8 @@
+"""
+Flask application entry point.
+
+This script initializes and runs the Flask app.
+"""
+from app import app
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5009, debug=True)
