@@ -93,7 +93,7 @@ Refactor this codebase to improve its quality, security, and maintainability. Th
 1. Create a new git repository with your solution
 2. Include all necessary files to run the application
 3. Ensure `python app.py` still works after setup
-4. Share the repository link on https://forms.gle/gpaV5LW5boDFk7uT6
+4. Share the repository link 
 
 ## Evaluation Criteria
 
@@ -116,5 +116,6 @@ You are permitted to use AI assistants (ChatGPT, GitHub Copilot, etc.) as you wo
 If you have questions about the requirements, please email [anand@retainsure.com] within the first 30 minutes of starting.
 
 ---
+
 
 Remember: We're not looking for perfection. We want to see how you approach real-world code problems, prioritize improvements, and communicate your decisions.
